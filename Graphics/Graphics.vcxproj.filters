@@ -18,8 +18,11 @@
     <ClCompile Include="..\..\..\..\OneDrive\Documents\libraries\glad\src\glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="1.getting_started\1.2.hello_triangle\hello_triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="1.getting_started\1.1.hello_window\readme.txt" />
   </ItemGroup>
 </Project>
